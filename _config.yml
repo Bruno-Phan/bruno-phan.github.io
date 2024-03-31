@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Bruno Phan"
 title_separator          : "-"
-name                     : &name "Bruno Phan"
-description              : &description "Supervisor Data Analyst at Pacific Cross Vietnam"
+name                     : &name ""
+description              : &description ""
 url                      : https://bruno-phan/.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bruno-phan/.github.io"
@@ -22,9 +22,9 @@ repository               : "bruno-phan/.github.io"
 author:
   # Biographic information
   avatar           : "profile picture.jpg"
-  name             : "Your Sidebar Name"
+  name             : "YBruno Phan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Supervisor Data Analyst at Pacific Cross Vietnam"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
