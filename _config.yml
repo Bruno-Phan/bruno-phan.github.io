@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bruno Phan / Supervisor Data Analyst at Pacific Cross Vietnam"
+title                    : "Bruno Phan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Bruno Phan"
+description              : &description "Supervisor Data Analyst at Pacific Cross Vietnam"
 url                      : https://bruno-phan/.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bruno-phan/.github.io"
