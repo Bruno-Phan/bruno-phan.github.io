@@ -21,7 +21,7 @@ repository               : "bruno-phan/.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile picture.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -290,6 +290,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-last-modified-at
+  - jemoji   # emoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -297,6 +299,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jemoji
+  - jekyll-last-modified-at
 
 
 # Archives
