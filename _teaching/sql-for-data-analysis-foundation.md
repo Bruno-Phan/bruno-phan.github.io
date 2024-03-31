@@ -16,8 +16,6 @@ Nội dung:
 4. Data aggregation (2 buổi)
 5. Join Tables (2 buổi)
 
-Heading 2
-======
-
-Heading 3
-======
+Liên hệ:
+Facebook: https://www.facebook.com/profile.php?id=100007944073218
+Zalo: 094.685.7577 (Bảo)
