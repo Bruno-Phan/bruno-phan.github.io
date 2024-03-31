@@ -22,11 +22,11 @@ repository               : "bruno-phan/bruno-phan.github.io"
 author:
   # Biographic information
   avatar           : "profile picture.jpg"
-  name             : "About Me"
+  name             : "Bruno Phan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Analyst"
+  location         : "Hochiminh City"
+  employer         : "Pacific Cross Vietnam"
   uri              : # URL
   email            : "thaibao1306@gmail.com" 
 
