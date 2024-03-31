@@ -1,8 +1,8 @@
 ---
-title: "SQL for Data Analysis- Foundation"
+title: "SQL for Data Analysis - Foundation"
 collection: teaching
 type: "Foundation course"
-permalink: /teaching/SQL for Data Analysis- Foundation
+permalink: /sql-for-data-analysis-foundation
 venue: Zoom
 date: 2024-01-01
 location: "Tp. Hồ Chí Minh"
