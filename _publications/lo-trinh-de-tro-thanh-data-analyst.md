@@ -12,7 +12,7 @@ date: 2024-04-20
 
 
 ## Bước 1: Hiểu về Data Analyst là gì
-Trước hết, bạn cần hiểu rõ vai trò và nhiệm vụ của một Data Analyst. Một Data Analyst là người phân tích và tạo ra thông tin từ dữ liệu để hỗ trợ quyết định kinh doanh. Công việc của họ bao gồm thu thập, xử lý, phân tích và trình bày dữ liệu để đưa ra những phân tích và dự đoán hữu ích cho doanh nghiệp.
+Trước hết, bạn cần hiểu rõ vai trò và nhiệm vụ của một Data Analyst. Một Data Analyst là người phân tích và tạo ra thông tin từ dữ liệu để hỗ trợ quyết định kinh doanh. Công việc của họ bao gồm thu thập, xử lý, phân tích và trình bày dữ liệu để đưa ra những phân tích và dự đoán hữu ích cho doanh nghiệp. Ngoài ra Data Analyst còn có thể chịu trách nhiệm báo cáo tổng hợp, báo cáo hiệu quả công việc, tính toán các khoản hoa hồng, chi phí,... theo yêu cầu của doanh nghiệp.
 
 ## Bước 2: Học các kiến thức cơ bản
 Ngôn ngữ lập trình: Bắt đầu với Python hoặc R, hai ngôn ngữ lập trình phổ biến trong phân tích dữ liệu. Học cách sử dụng các thư viện như Pandas, NumPy (trong Python) hoặc dplyr, ggplot2 (trong R) để xử lý và trực quan hóa dữ liệu.
