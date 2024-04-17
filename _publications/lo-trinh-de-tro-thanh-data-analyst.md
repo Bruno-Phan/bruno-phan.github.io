@@ -8,7 +8,7 @@ date: 2024-04-20
 ---
 
 
-![](images/data analyst cover.jpg)
+![](/images/data analyst cover.jpg)
 
 
 ## Bước 1: Hiểu về Data Analyst là gì
