@@ -7,8 +7,8 @@ date: 2024-04-20
 
 ---
 
-
-![](images/data analyst cover.jpg)
+![Thumbnail](images/roadmap-to-become-data-analyst-2.png)
+![](images/roadmap-to-become-data-analyst-2.png)
 
 
 ## Bước 1: Hiểu về Data Analyst là gì?
