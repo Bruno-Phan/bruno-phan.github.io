@@ -7,7 +7,7 @@ date: 2024-04-20
 
 ---
 
-![Thumbnail](images/roadmap-to-become-data-analyst-2.png)
+
 ![](images/roadmap-to-become-data-analyst-2.png)
 
 
