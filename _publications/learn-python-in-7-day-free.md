@@ -2,9 +2,9 @@
 title: "Mình đã học Python cơ bản trong 7 ngày như thế nào?"
 collection: publications
 permalink: /learn-python-in-7-day-free
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: ''
 date: 2024-04-17
-venue: 'GitHub Journal of Bugs'
+venue: ''
 
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
