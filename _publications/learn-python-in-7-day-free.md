@@ -16,23 +16,41 @@ Trong đó giới thiệu các kiến thức căn bản nhất về ngôn ngữ 
 Các kiến thức được giới thiệu trong video cũng là những gì quan trọng nhất cần học. Chỉ cần bạn nắm rõ các kiến thức căn bản này, bạn có thể thực hiện gần như mọi thứ trên Python, không chỉ là Phân tích dữ liệu mà còn tự động hóa các tác vụ, thậm chí là phát triển phần mềm. Công việc còn lại chỉ là import các thư viện mà bạn cần và tạo ra các lệnh từ các câu lệnh căn bản. Chúc các bạn thành công
 
 Introduction 
+
 What You Can Do With Python 
+
 Your First Python Program 
+
 Variables
+
 Receiving Input
+
 Type Conversion
+
 Strings
+
 Arithmetic Operators 
+
 Operator Precedence 
+
 Comparison Operators 
+
 Operators
+
 If Statements
+
 Exercise
+
 Loops
+
 Lists
+
 List Methods
+
 For Loops
+
 The range() Function 
+
 Tuples
 
 
