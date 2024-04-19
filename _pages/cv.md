@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,36 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* BEc at Foreign Trade University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2018-2020: Management Trainee at ITL Corporation
+  * Senior Service Quality Analyst - Express
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2023: Senior Specilist at Sun Life Vietnam
+  * Distribution Operation Service (2020-2022)
+  * Compensation Department (2022-2023)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023- Present: Supervisor, Data Analyst at Pacific Cross Vietnam
+  * Data management
+  * Reporting and Analysing
+  * Compensation
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* SQL
+* Office 
+  * Excel
+  * Power BI
+* Python 
+ * For Data Analysing
+ * Machine Learning
+ * Data Visualization
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
