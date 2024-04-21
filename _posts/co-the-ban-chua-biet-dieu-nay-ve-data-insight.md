@@ -3,7 +3,9 @@ title: 'Có thể bạn chưa biết điều này về Data Insight'
 date: 2024-01-01
 permalink: /posts/co-the-ban-chua-biet-dieu-nay-ve-data-insight/
 tags:
-  - data insights
+  - cool posts
+  - category1
+  - category2
 ---
 Chắc hẳn bạn đã từng ít nhất 1 lần nghe về khái niệm data insight trong cuộc sống hằng ngày. Tuy nhiên, có một sự thật là lĩnh vực nhắc đến khái niệm này nhiều nhất là Marketing và nó dễ khiến cho chúng ta lầm tưởng **Insight** là một khái niệm trong marketing và chỉ được dùng trong các chiến dịch quảng cáo hoặc bán hàng: phổ biến như: người trẻ có xu hướng dùng tiktok nhiều hơn, hay là thời gian đăng bài để có nhiều lượt view là khoảng 20h,... Một trường hợp khác là khi các bạn học IELTS hoặc trên trường, thường hay được yêu cầu về nhận xét biểu đồ, trong đó thường chú trọng đến việc nhận xét xu hướng (trend), giá trị lớn nhất, nhỏ nhất (extreme value). Từ đó, chúng ta có cái nhìn thiên lệch, hoặc chưa thực sự đầy đủ về Data Insight.
 
