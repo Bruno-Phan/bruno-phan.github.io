@@ -1,7 +1,7 @@
 ---
 title: 'Có thể bạn chưa biết điều này về Data Insight'
 date: 2024-01-01
-permalink: /posts/co-the-ban-chua-biet-dieu-nay-ve-data-insight
+permalink: /co-the-ban-chua-biet-dieu-nay-ve-data-insight
 tags:
   - cool posts
   - category1
