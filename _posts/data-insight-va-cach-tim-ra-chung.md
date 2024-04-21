@@ -1,7 +1,7 @@
 ---
 title: 'Data Insight và cách tìm ra chúng'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2014-03-14
+permalink: /posts/data-insight-va-cach-tim-ra-chung/
 tags:
   - cool posts
   - category1
