@@ -51,11 +51,4 @@ Các ứng dụng thường gặp:
 **Healthcare**: Using patient data to identify trends in diseases or treatment effectiveness.
 **Finance**: Analyzing market data to predict stock prices.
 
-**Các bước thực hiện căn bản**:
-**Data Collection**: Gathering raw data from various sources.
-**Data Processing**: Cleaning, organizing, and preparing the data for analysis.
-**Data Analysis**: Applying statistical and analytical techniques to find patterns.
-**Insight Generation: Extracting meaningful conclusions and actionable insights.
-**Visualization: Presenting insights in a clear and understandable way, often through charts or graphs.
-In essence, data insight is about transforming raw data into information that can drive better decision-making and understanding of various phenomena, be it in business, science, healthcare, or any other field where data plays a role.
 ======
